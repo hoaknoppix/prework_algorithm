@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class CheckPoint2 {
 
     public static int[][] getConcentricRectangularArray(int size) {
-        if (size <1) {
+        if (size < 1) {
             return null;
         }
         int n = 1 + (size - 1) * 2;
