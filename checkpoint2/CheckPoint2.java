@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class CheckPoint2 {
 
     public static int[][] getConcentricRectangularArray(int size) {
